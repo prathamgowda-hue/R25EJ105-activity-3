@@ -5,3 +5,13 @@ Skills: Python, SQL, DevOps, C
 Interested in AI, Machine Learning, and DevOps
 Goal: achieve a good work-life balance
 
+
+
+
+## Projects
+
+- **2D Graphics Editor** — Terminal-based 2D graphics editor in C (ACP course assignment).
+- **Line Editor** — Command-line line editor in C with insert, delete, display, save/load, search, and replace.
+- **LeetCode Solutions** — Practice log of solved problems with approaches and complexity notes.
+
+
